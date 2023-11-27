@@ -1,0 +1,30 @@
+.btn{
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.btndiv{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container{
+    text-align: center;
+    font-size: 50px;
+}
+
+.Play{
+    font-size: large;
+    height: 50px;
+    width: 400px;
+}
+
+body{
+    background-color: grey;
+}
