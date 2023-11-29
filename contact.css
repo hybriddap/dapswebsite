@@ -1,0 +1,54 @@
+.btn{
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 5%;
+}
+
+.btn:hover{
+    background-color: rgb(143, 143, 143);
+}
+
+.btndiv{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.header{
+    background-color: gray;
+    height:150px;
+    margin: 0px;
+    border:20px solid gray;
+}
+
+.prtitle{
+    color: white;
+    font-size: 50px;
+}
+
+.container{
+    color: white;
+    text-align: center;
+    border: 0px;
+    font-size: 40px;
+    display: inline-grid;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 0px;
+    background-image: url("Imgs/wp9112558.jpg");
+    background-size:50%;
+}
+
+.Links:visited{
+    color: blue;
+}
+
+.Links:link{
+    color:blue;
+}
