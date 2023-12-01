@@ -10,6 +10,10 @@ document.getElementById('Contact').onclick = function(){
     window.location.href="contact.html";
 }
 
+document.getElementById("MITF2").onclick=function(){
+    window.open("https://mrdap.itch.io/the-man-in-the-forest-lost-files");
+}
+
 document.getElementById("MITF").onclick=function(){
     window.open("https://mrdap.itch.io/the-man-in-the-forest");
 }
