@@ -25,3 +25,24 @@ document.getElementById("BlockC").onclick=function(){
 document.getElementById("MKR").onclick=function(){
     window.open("https://drive.google.com/file/d/1JEqbD5T39uokifqp38eDJLxivu7T0oTJ/view?usp=sharing");
 }
+
+document.getElementById("MITFG").onclick=function(){
+    window.open("https://github.com/hybriddap/TheManInTheForest.git");
+}
+
+document.getElementById("Roblox").onclick=function(){
+    window.open("https://www.roblox.com/games/11861164573/The-New-Horror-Game");
+}
+
+//alerts
+document.getElementById("AlarmG").onclick=function(){
+    window.alert("I haven't had a chance to upload the link to this yet. I will do in due time though :)");
+}
+
+document.getElementById("Slender").onclick=function(){
+    window.alert("I haven't had a chance to upload the link to this yet. I will do in due time though :)");
+}
+
+document.getElementById("Car3DS").onclick=function(){
+    window.alert("I haven't had a chance to upload the link to this yet. I will do in due time though :)");
+}
