@@ -1,16 +1,12 @@
 .btn{
-    font-size: 30px;
+    font-size: 150%;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
-    border-top: 0px;
-    border-bottom: 0px;
-    border-left-width: 1px;
-    border-right-width: 0px;
-    border-radius: 0%;
+    border: 1px solid black;
 }
 
 #Home{
-    border-left-width: 0px;
+    border-left-width: 0%;
 }
 
 .btn:hover{
@@ -35,10 +31,12 @@
 }
 
 .header{
+    text-align: center;
     background-color: rgb(128, 128, 128,40%);
-    height:250px;
-    margin: 0px;
-    border:0px solid gray;
+    width: 100%;
+    height:50%;
+    margin: 0%;
+    border:0% solid gray;
 }
 .prtitle{
     color: white;
@@ -49,7 +47,7 @@
     color: white;
     text-align: center;
     border: 0px;
-    font-size: 40px;
+    font-size: 170%;
     display: inline-grid;
 }
 
