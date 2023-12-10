@@ -36,13 +36,13 @@ document.getElementById("Roblox").onclick=function(){
 
 //alerts
 document.getElementById("AlarmG").onclick=function(){
-    window.alert("I haven't had a chance to upload the link to this yet. I will do in due time though :)");
+    window.open("https://github.com/hybriddap/Alarm-Clock");
 }
 
 document.getElementById("Slender").onclick=function(){
-    window.alert("I haven't had a chance to upload the link to this yet. I will do in due time though :)");
+    window.open("https://drive.google.com/file/d/1S8tGeyM7Wb2nYLoaedoOhY2wSFcyYAPj/view?usp=sharing");
 }
 
 document.getElementById("Car3DS").onclick=function(){
-    window.alert("I haven't had a chance to upload the link to this yet. I will do in due time though :)");
+    window.open("https://drive.google.com/file/d/13cYDRpaUEVIExxB22cyVlgMCVNASxOsE/view?usp=sharing");
 }
